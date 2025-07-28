@@ -4,13 +4,13 @@
 📧 Email: armprog.01@gmail.com  
 📅 Date of Birth: 01 January 2004
 
----
+
 
 ## 🧠 Summary
 
 Enthusiastic and motivated IT student at the **National Polytechnic University of Armenia, Gyumri branch**, with a strong interest in **DevOps** and **Cloud Engineering**. Skilled in Python (OOP), Linux, and Bash scripting, with practical experience using tools like Git, GitHub Actions, Docker, and Jenkins for automation and CI/CD workflows. Knowledgeable in AWS cloud services and infrastructure as code using Terraform. Quick learner with a passion for technology, looking to apply and grow technical skills in real-world IT and DevOps environments.
 
----
+
 
 ## 🎓 Education
 
@@ -19,7 +19,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 📅 September 2022 – Present  
 📍 Gyumri, Armenia
 
----
+
 
 ## 🛠️ Professional Skills
 
@@ -31,7 +31,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 - Infrastructure as Code: Terraform, Kubernetes, Helm, ArgoCD  
 - Web Server & Networking: Nginx, Networking Basics
 
----
+
 
 ## 🧩 Personal Skills
 
@@ -42,7 +42,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 - Hardworking & Punctual  
 - Honest & Inquisitive
 
----
+
 
 ## 🌐 Languages
 
@@ -58,7 +58,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 - Actively learning and experimenting with cloud-native tools  
 - Open to internships and junior DevOps/Cloud Engineering roles
 
----
+
 
 ## 📁 CV Download
 
