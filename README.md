@@ -1,6 +1,6 @@
 # Arman Hovhannisyan
 
-📍 Gyumri, Armenia  
+📍 Armenia  
 📧 Email: armprog.01@gmail.com  
 📅 Date of Birth: 01 January 2004
 
@@ -50,6 +50,9 @@ National Polytechnic University of Armenia – Gyumri Branch
 - **Russian**: Intermediate  
 - **English**: Intermediate
 
+## 📜 Certificate
+
+[DevHacks Certificate (PDF)](./devhacks.pdf)
 
 
 ## 📌 Additional Information
