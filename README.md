@@ -23,10 +23,10 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 ## 🛠️ Professional Skills
 
-- Version Control        : Git, GitHub  
+- Version Control        : Git, GitHub, GitLab  
 - OS & Shell             : Linux OS, Bash scripting  
 - Programming            : Python (OOP)  
-- CI/CD & DevOps Tools   : GitHub Actions, Jenkins, Docker  
+- CI/CD & DevOps Tools   : GitHub Actions, GitLab CI, Jenkins, Docker  
 - Cloud Platforms        : AWS  
 - Infrastructure as Code : Terraform, Ansible, Kubernetes, Helm, ArgoCD  
 - Web Server & Networking: Nginx, Networking Basics
