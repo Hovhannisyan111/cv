@@ -52,6 +52,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 ## 📜 Certificate
 
 [DevHacks Certificate (PDF)](./devhacks.pdf)
+
 [Quantori Academy Certificate (PDF)](./quantori.pdf)
 
 ## 📌 Additional Information
