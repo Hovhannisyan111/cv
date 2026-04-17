@@ -16,21 +16,20 @@ Enthusiastic and motivated IT student at the **National Polytechnic University o
 
 **IT Specialist**  
 National Polytechnic University of Armenia – Gyumri Branch  
-📅 September 2022 – Present  
-📍 Gyumri, Armenia
+📅 September 2022 – May 2026
 
 
 
 ## 🛠️ Professional Skills
 
 - Version Control        : Git, GitHub, GitLab  
-- OS & Shell             : Linux OS, Bash scripting  
+- OS & Shell             : Linux OS, Bash scripting, PowerShell
 - Programming            : Python (OOP)  
 - CI/CD & DevOps Tools   : GitHub Actions, GitLab CI, Jenkins, Docker  
-- Cloud Platforms        : AWS  
+- Cloud Platforms        : AWS
 - Infrastructure as Code : Terraform, Ansible, Kubernetes, Helm, ArgoCD  
 - Web Server & Networking: Nginx, Networking Basics
-- Monitoring             : Prometheus, Grafana 
+- Monitoring             : Prometheus, Grafana, Zabbix 
 
 
 ## 🧩 Personal Skills
@@ -53,7 +52,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 ## 📜 Certificate
 
 [DevHacks Certificate (PDF)](./devhacks.pdf)
-
+[Quantori Academy Certificate (PDF)](./quantori.pdf)
 
 ## 📌 Additional Information
 
