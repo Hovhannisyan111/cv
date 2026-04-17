@@ -65,4 +65,4 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 ## 📁 CV Download
 
-[Click here to download my CV (PDF)](./cv.pdf)
+[Click here to see my CV (PDF)](./cv.pdf)
