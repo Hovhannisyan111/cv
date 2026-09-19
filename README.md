@@ -55,6 +55,8 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 [Quantori Academy Certificate (PDF)](./quantori.pdf)
 
+[AWS Certified Cloud Practitioner](./aws-certified-cloud-practitioner.png)
+
 ## 📌 Additional Information
 
 - Completed hands-on projects with CI/CD, Docker, and AWS  
