@@ -21,6 +21,7 @@ systems and growing as a DevOps/Cloud Engineer.
 ## Work Experience
 
 DevOps Engineer - NeoGraph Games LLC
+
                   📅June 2026 - current
 
 ## 🎓 Education
@@ -29,6 +30,7 @@ DevOps Engineer - NeoGraph Games LLC
 National Polytechnic University of Armenia – Gyumri Branch  
 
 📅 Master of Information Technology   2026 - 2028
+
 📅 Bachelor of Information Technology 2022 - 2026
 
 
