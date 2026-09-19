@@ -8,15 +8,28 @@
 
 ## 🧠 Summary
 
-Enthusiastic and motivated IT student at the **National Polytechnic University of Armenia, Gyumri branch**, with a strong interest in **DevOps** and **Cloud Engineering**. Skilled in Python (OOP), Linux, and Bash scripting, with practical experience using tools like Git, GitHub Actions, Docker, and Jenkins for automation and CI/CD workflows. Knowledgeable in AWS cloud services and infrastructure as code using Terraform. Quick learner with a passion for technology, looking to apply and grow technical skills in real-world IT and DevOps environments.
+Master’s student in Information Technology, specializing in DevOps
+and cloud engineering, with over 3 years of experience working in
+Linux environments and more than 1 year of experience with
+DevOps and cloud technologies. Experienced in designing,
+automating, deploying, and maintaining reliable, scalable, and
+efficient infrastructure using modern DevOps practices and tools.
+Strong problem-solving mindset, fast learner, and committed to
+continuous improvement, with a passion for building reliable
+systems and growing as a DevOps/Cloud Engineer.
 
+## Work Experience
 
+DevOps Engineer - NeoGraph Games LLC
+                  📅June 2026 - current
 
 ## 🎓 Education
 
 **IT Specialist**  
 National Polytechnic University of Armenia – Gyumri Branch  
-📅 September 2022 – May 2026
+
+📅 Master of Information Technology   2026 - 2028
+📅 Bachelor of Information Technology 2022 - 2026
 
 
 
@@ -51,18 +64,11 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 ## 📜 Certificate
 
-[DevHacks Certificate (PDF)](./devhacks.pdf)
+[DevHacks Certificate](./devhacks.pdf)
 
-[Quantori Academy Certificate (PDF)](./quantori.pdf)
+[Quantori Academy Certificate](./quantori.pdf)
 
 [AWS Certified Cloud Practitioner](./aws-certified-cloud-practitioner.png)
-
-## 📌 Additional Information
-
-- Completed hands-on projects with CI/CD, Docker, and AWS  
-- Actively learning and experimenting with cloud-native tools  
-- Open to internships and junior DevOps/Cloud Engineering roles
-
 
 
 ## 📁 CV Download
