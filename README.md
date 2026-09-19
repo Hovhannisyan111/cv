@@ -22,7 +22,7 @@ systems and growing as a DevOps/Cloud Engineer.
 
 DevOps Engineer - NeoGraph Games LLC
 
-                  📅June 2026 - current
+📅June 2026 - current
 
 ## 🎓 Education
 
