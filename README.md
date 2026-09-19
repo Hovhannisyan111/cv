@@ -71,6 +71,8 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 [AWS Certified Cloud Practitioner](./aws-certified-cloud-practitioner.png)
 
+[Network Technician Career Path](./Network_Technician.pdf)
+
 
 ## 📁 CV Download
 
