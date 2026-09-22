@@ -59,7 +59,7 @@ National Polytechnic University of Armenia – Gyumri Branch
 
 ## 🌐 Languages
 
-- **Armenian**: Native (Fluent)  
+- **Armenian**: Native
 - **Russian**: Intermediate  
 - **English**: Intermediate
 
